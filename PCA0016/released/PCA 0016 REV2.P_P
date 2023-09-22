@@ -1,0 +1,34 @@
+*ID*           -                              
+V=2
+E=G71
+%X033Y033
+X25400Y0
+X0Y0
+X0Y25400
+A1                            
+*SIDE1*
+C1    120059-MM-100n_0402       20850   4900 270 v.C.0402                  Chip Capacitor
+C2    120030-GRM_68pF_0402      21950   4900 270 v.C.0402                  Chip Capacitor
+C3    120059-MM-100n_0402       37500   3700 270 v.C.0402                  Chip Capacitor
+C4    120031-GRM_15pF_0402      23050   4900 270 v.C.0402                  Chip Capacitor
+C5    120059-MM-100n_0402       31500   3750 090 v.C.0402                  Chip Capacitor
+C6    120059-MM-100n_0402       22200   2350 090 v.C.0402                  Chip Capacitor
+C7    120059-MM-100n_0402       21100   2350 090 v.C.0402                  Chip Capacitor
+F1    110002-PTC                 9850   3500 000 v.PTC.1812                          Chip
+Q1    140005-DMN1004UFDF        35875   4187 090 v.IC6.UDFN2020-6             Ytmont. SO8
+Q2    140005-DMN1004UFDF        33075   2762 270 v.IC6.UDFN2020-6             Ytmont. SO8
+R1    100060-MM-330R_0402       19750   4900 090 v.R.0402                  Chip Capacitor
+R2    100061-MM-5M_0402         27150   5750 090 v.R.0402                  Chip Capacitor
+R3    100061-MM-5M_0402         27150   3750 270 v.R.0402                  Chip Capacitor
+R4    100019-MM-2k2_0402        23300   2350 270 v.R.0402                  Chip Capacitor
+R5    100028-MM-10k_0402        39150   2400 270 v.R.0402                  Chip Capacitor
+B+    CON_CN1_PCM_CELL           3250   3500 000 v.CN1.PCM_CELL                       PAD
+B-    CON_CN1_PCM_CELL          46750   3500 000 v.CN1.PCM_CELL                       PAD
+IC1   170053-BQ29700            24950   4500 180 v.IC6.WSON                   Ytmont. SO8
+*SIDE2*
+T     CON_CN1_PCM_WIRE          41300   2350 180 v.CN1.PCM_WIRE                       PAD
+P+    CON_CN1_PCM_WIRE          17950   2450 000 v.CN1.PCM_WIRE                       PAD
+P-    CON_CN1_PCM_WIRE          26150   2450 000 v.CN1.PCM_WIRE                       PAD
+TP+   TESTP                      3250   3500 000 v.TESTP                        TESTPUNKT
+TP-   TESTP                     46750   3500 000 v.TESTP                        TESTPUNKT
+*END*
